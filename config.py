@@ -26,8 +26,13 @@ Incident Summary:
 Root Cause:
 Impacted Component:
 Evidence:
+<<<<<<< HEAD
 Recommended Fixes:recommended
-ENV = "FEATURE"
+ENV = "PROD"
+=======
+Recommended Fixes:
+    ENV = "DEV"
+>>>>>>> 9ae5d131a7132741866d52c1b745fec64ba53368
 Logs:
 {log_text}
 """
