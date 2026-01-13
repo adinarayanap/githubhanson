@@ -27,7 +27,7 @@ Root Cause:
 Impacted Component:
 Evidence:
 Recommended Fixes:
-
+    ENV = "DEV"
 Logs:
 {log_text}
 """
