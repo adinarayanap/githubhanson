@@ -26,7 +26,7 @@ Incident Summary:
 Root Cause:
 Impacted Component:
 Evidence:
-Recommended Fixes:
+Recommended Fixes:recommended
 
 Logs:
 {log_text}
