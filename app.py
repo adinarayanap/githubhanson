@@ -3,7 +3,7 @@ def start():
     print("App started")
 
 def config():
-    print("Loading config")
+    print("Loading config from DEV")
 
 def run():
     start()
